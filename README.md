@@ -9,8 +9,24 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 [Open the Week 1 Day 1 notebook in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/01_questions_evidence_methods.ipynb)
 
 1. Save a notebook copy in Drive.
-2. Enter a topic and work individually or in a group of 1–3.
-3. Run all cells and keep the downloaded result ZIP and notebook.
+2. Read the opening purpose and learning-objective map; work individually or in a group of 1–3.
+3. Complete the student-input forms in Parts 1–3, run all cells, and keep the result ZIP and notebook with outputs.
+
+## The Day 1 investigation
+
+The notebook has exactly three top-level parts, with numbered subsections:
+
+| Part | Student activity | What changes |
+|---|---|---|
+| 1. Learn and experiment with research methods | Read the concepts; record an initial question and expectation; change proxy noise, budget share, or seed. | A shared 600-person simulation and its numerical results. |
+| 2. Discover and verify literature on your question | Change the topic, comparison topic, year range, retrieval cap, or source mode; inspect and verify records. | Bibliographic discovery and literature charts. |
+| 3. Explain, reflect, and export your investigation | Write a finding, revision, next step, and manual search audit; save the outputs. | Your recorded reasoning and exported investigation. |
+
+Every section identifies **READ & LEARN**, **STUDENT INPUT**, **RUN & OBSERVE**, or **HUMAN CHECK**. All 26 form fields have definitions, defaults, allowed values, examples, and expected effects. The package guide explains NumPy, pandas, Matplotlib, scikit-learn, IPython, the standard-library tools, and alternatives linked to official documentation.
+
+`TOPIC` changes literature discovery. `PURPOSE` and `CONTEXT` record the student's intended purpose and setting; they do not select a model or apply a geographic filter. All numerical methods use the common simulated case. For a controlled experiment, change one parameter and keep the seed fixed.
+
+After changing an analysis setting, run all cells. After changing only Part 3 written answers, run that form and the final export cell. Export detects changed analysis settings that would otherwise produce stale results. The ZIP includes parameter definitions and a learning-objective map; save the `.ipynb` separately with its executed outputs.
 
 The tutorial includes motivation, philosophical and mathematical definitions, pseudocode, executable CPU examples, real literature metadata, visualization outputs, guiding questions, and a recorded investigation. Its numerical data are explicitly synthetic. Automated literature method labels require human verification. Database-wide trend counts are distinguished from the distribution of a retrieved sample. Frontier papers are inspected; their large models are not executed in this Day 1 tutorial.
 
@@ -40,4 +56,5 @@ Original executable code is MIT licensed. Original instructional prose and origi
 
 The core uses Python, NumPy, pandas, Matplotlib, scikit-learn, and IPython, all normally present in Colab. `requirements.txt` provides compatible local installation ranges. No hosted generative-AI account or GPU is required. Network retrieval is optional because the notebook embeds a dated metadata sample. A zero-match fallback remains visible and does not fabricate sources.
 
-The 11 executable cells passed end-to-end verification in four scenarios: live education-inequality search, saved climate-adaptation sample, saved cultural-heritage sample, and a genuine zero-match query. All four completed with zero cell errors, generated the expected files, and passed ZIP integrity checks. The live example retrieved all three providers: arXiv, OpenAlex, and Crossref. Verification used Python 3.12 and in-process IPython with Colab-compatible core packages. The notebook was not run inside a signed-in Google Colab browser; service access and browser download behavior remain external conditions.
+The revised notebook contains 13 executable cells. Verification covers the default live run, low/high measurement noise, low/high allocation capacity, a cultural-heritage query and changed purpose/context, a narrowed date range, a genuine zero-match query, forced provider failure, and answer refresh with stale-export checks. The checked example outputs are saved in the notebook. Validation uses Python 3.12 and real in-process IPython with Colab-compatible core packages, including rich figure/HTML outputs. Public Colab rendering is checked separately; execution inside a signed-in hosted Colab runtime and browser download prompts remain external conditions.
+
