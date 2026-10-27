@@ -1,5 +1,19 @@
 # Foundations: Questions, Evidence, and Methods
 
+[Open the revised full Week 1 notebook in Google Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/02_week1_research_innovation.ipynb)
+
+## Week 1 continuation on Wednesday October 28, 2026
+
+Monday's think–pair–share direction finding is **Practice**. The instructor reports partial completion and that Colab has not begun. Wednesday uses Colab and source comparison for **Research**, followed by a provisional contribution canvas and critique for **Innovation**.
+
+The revised notebook preserves the existing five-purpose numerical tutorial and literature discovery. It adds eight seven-field paper maps, two innovation routes, an explicitly illustrative CPU coordination toy, and a contribution canvas. The toy does not call an LLM or reproduce the Science Advances experiment. The Nature Human Behaviour review map is bounded to its verified public abstract, role taxonomy and references; the full review PDF requires authorized access.
+
+The individual Week 1 reflection is a reply to the course Ed Discussion post, due **Sunday November 1, 2026 at 23:00 China Standard Time**. Connect Monday and Wednesday in **450–650 words plus one compact diagram**, actual output/settings and two close citations. Keep reasoning, source checks, feedback and revisions for PS1 and the final project. Full instructions and the two-page A4 assignment are in the course package.
+
+New fields record a selected paper, toy share/seed, and a provisional gap, baseline/test, data/evaluation, intended contributions, peer-feedback revision and next-week action. They do not automatically establish originality or learning attainment. These records, paper maps and toy settings/data are included in the exported results ZIP.
+
+## Original foundations tutorial
+
 [Open the Day 1 tutorial in Google Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/01_questions_evidence_methods.ipynb)
 
 Work individually or in a group of 1–3. Save a copy in Drive and read the opening purpose, learning-objective map, and activity legend. Use a standard Colab Python 3 CPU runtime. No paid model, GPU, or API key is required for the core tutorial.
