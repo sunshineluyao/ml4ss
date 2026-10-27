@@ -6,11 +6,11 @@
 
 Monday's think–pair–share direction finding is **Practice**. The instructor reports partial completion and that Colab has not begun. Wednesday uses Colab and source comparison for **Research**, followed by a provisional contribution canvas and critique for **Innovation**.
 
-The revised notebook preserves the existing five-purpose numerical tutorial and literature discovery. It adds eight seven-field paper maps, two innovation routes, an explicitly illustrative CPU coordination toy, and a contribution canvas. The toy does not call an LLM or reproduce the Science Advances experiment. The Nature Human Behaviour review map is bounded to its verified public abstract, role taxonomy and references; the full review PDF requires authorized access.
+The revised notebook preserves the existing five-purpose numerical tutorial and literature discovery. It adds eight seven-field paper maps, two innovation routes, an optional commuting-time scenario, and a contribution canvas. The second deep dive is Bloom, Han and Liang (2024), Nature, on a randomized hybrid-work arrangement. A proposed digital-nomad extension must identify new mechanisms, close prior studies and new evidence. The scenario calculates commuting time under stated assumptions; it does not estimate performance or community effects. The Nature Human Behaviour review map is bounded to its verified public abstract, role taxonomy and references; the full review PDF requires authorized access.
 
 The individual Week 1 reflection is a reply to the course Ed Discussion post, due **Sunday November 1, 2026 at 23:00 China Standard Time**. Connect Monday and Wednesday in **450–650 words plus one compact diagram**, actual output/settings and two close citations. Keep reasoning, source checks, feedback and revisions for PS1 and the final project. Full instructions and the two-page A4 assignment are in the course package.
 
-New fields record a selected paper, toy share/seed, and a provisional gap, baseline/test, data/evaluation, intended contributions, peer-feedback revision and next-week action. They do not automatically establish originality or learning attainment. These records, paper maps and toy settings/data are included in the exported results ZIP.
+New fields record a selected paper, office days and assumed round-trip commuting minutes, and a provisional gap, baseline/test, data/evaluation, intended contributions, peer-feedback revision and next-week action. They do not automatically establish originality or learning attainment. These records, paper maps and commuting assumptions/scenario data are included in the exported results ZIP.
 
 ## Original foundations tutorial
 
