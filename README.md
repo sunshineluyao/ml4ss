@@ -6,6 +6,11 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
 ## Start here
 
+[Open the revised Week 1 Wednesday notebook in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/02_week1_research_innovation.ipynb)
+
+Wednesday Research addresses Monday's feedback on originality, empirical design and data access before the Innovation canvas. It adds a nine-resource publication-linked data catalog, three small real-data excerpts and a research-design form. See [the Foundations guide](modules/00-foundations/README.md) for the distinction between observed data, published summaries and synthetic tutorials, access conditions, provenance and the short visual reflection.
+
+
 [Open the Week 1 Day 1 notebook in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/01_questions_evidence_methods.ipynb)
 
 1. Save a notebook copy in Drive.

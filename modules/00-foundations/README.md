@@ -2,15 +2,23 @@
 
 [Open the revised full Week 1 notebook in Google Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/02_week1_research_innovation.ipynb)
 
-## Week 1 continuation on Wednesday October 28, 2026
+## Week 1 Wednesday Research after Monday feedback
 
-Monday's think–pair–share direction finding is **Practice**. The instructor reports partial completion and that Colab has not begun. Wednesday uses Colab and source comparison for **Research**, followed by a provisional contribution canvas and critique for **Innovation**.
+Monday's think–pair–share is Practice. Wednesday uses Research to address originality, method–claim alignment and usable data before the Innovation canvas. The three top-level notebook parts remain intact.
 
-The revised notebook preserves the existing five-purpose numerical tutorial and literature discovery. It adds eight seven-field paper maps, two innovation routes and a contribution canvas. The second deep dive is Tong, Wu and Evans (2026), Nature Communications, on ML measurement of occupational skill change. Skip-gram word2vec learns skill representations from real job ads. The classroom comparison reuses published summary values to show how the choice of measure changes an occupational ranking. It does not retrain embeddings, identify robot-adoption effects or optimize retraining policy. The Nature Human Behaviour review map remains bounded to its verified public abstract, role taxonomy and references; the full review requires authorized access.
+In Sections 2.1C–2.1E, distinguish theory, simulation, observational analysis and behavioral experiments, then match one of five empirical purposes to appropriate validation. Behavioral research is empirical. New human-subject research needs the appropriate institutional determination and any required approval before activities begin; public data do not automatically settle privacy or reuse terms.
 
-The individual Week 1 reflection is a reply to the course Ed Discussion post, due **Sunday November 1, 2026 at 23:00 China Standard Time**. Connect Monday and Wednesday in **450–650 words plus one compact diagram**, actual output/settings and two close citations. Keep reasoning, source checks, feedback and revisions for PS1 and the final project. Full instructions and the two-page A4 assignment are in the course package.
+The catalog links nine publication-associated resources: FMA and ArtEmis; FinQA, LexGLUE and Folktables; SustainBench, Dynamic World, WeatherBench 2 and GHCN-Daily. Each record includes paper/data URLs, access conditions, a task, baseline, validation and a limited candidate question. Catalog selection does not download the source datasets.
 
-New fields record a selected paper, a selected skill-change measure and highlighted occupation, and a provisional gap, baseline/test, data/evaluation, intended contributions, peer-feedback revision and next-week action. They do not automatically establish originality or learning attainment. These records, paper maps and measurement settings and published summary results are included in the exported results ZIP.
+Three small attributed real-data excerpts are embedded for CPU exploration: the complete FMA 163-row genre taxonomy, the first 200 FinQA training examples, and 1,096 quality-screened Central Park station-days from 2018–2020. The first two support descriptive inspection. The station example compares Ridge with persistence using a chronological split and MAE in degrees Celsius. These are classroom subsets, not full paper replications. The common 600-person numerical tutorial remains synthetic and visibly labeled. Provenance, transforms, retrieval date and checksums accompany the excerpts.
+
+The two deep dives remain Xu et al.'s verified public role taxonomy and Tong, Wu and Evans's ML measurement of occupational skill change. The latter uses licensed raw Lightcast ads; our comparison reuses published summary values and does not retrain skill2vec or identify robot-adoption effects.
+
+New forms record the observation unit, empirical source, ML task, baseline, validation, limited claim, access/review check and a revision from Monday. Parameter definitions give defaults, allowed changes, examples and expected effects. Export checks for stale empirical settings and preserves the data passport, catalog, provenance, figures and design.
+
+The individual Week 1 reflection is a PDF of at most two A4 pages with **two figures and 200–300 words including captions**, plus references and URLs within the same pages. Reply to the Ed reflection post by **Sunday November 1, 2026 at 23:00 China Standard Time**. Include two close studies, the source URL and an instructor-accessible URL to the revised Colab copy. Keep the executed notebook and result ZIP. Week 2 develops multimodal data and measurement for PS1 and the final research demo.
+
+Research foundations: Shmueli (2010), https://doi.org/10.1214/10-STS330; Mullainathan & Spiess (2017), https://doi.org/10.1257/jep.31.2.87. Learning foundations: Chi & Wylie (2014), https://doi.org/10.1080/00461520.2014.965823; Freeman et al. (2014), https://doi.org/10.1073/pnas.1319030111. These inform the design; student artifacts must establish actual learning.
 
 ## Original foundations tutorial
 
