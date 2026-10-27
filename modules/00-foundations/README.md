@@ -18,7 +18,7 @@ New forms record the observation unit, empirical source, ML task, baseline, vali
 
 The individual Week 1 reflection is a PDF of at most two A4 pages with **two figures and 200–300 words including captions**, plus references and URLs within the same pages. Reply to the Ed reflection post by **Sunday November 1, 2026 at 23:00 China Standard Time**. Include two close studies, the source URL and an instructor-accessible URL to the revised Colab copy. Keep the executed notebook and result ZIP. Week 2 develops multimodal data and measurement for PS1 and the final research demo.
 
-Research foundations: Shmueli (2010), https://doi.org/10.1214/10-STS330; Mullainathan & Spiess (2017), https://doi.org/10.1257/jep.31.2.87. Learning foundations: Chi & Wylie (2014), https://doi.org/10.1080/00461520.2014.965823; Freeman et al. (2014), https://doi.org/10.1073/pnas.1319030111. These inform the design; student artifacts must establish actual learning.
+Ludwig, J., Mullainathan, S., & Rambachan, A. (2026). Large Language Models: An Applied Econometric Framework. Annual Review of Economics, 18, 283–316. https://doi.org/10.1146/annurev-economics-120925-105620
 
 ## Original foundations tutorial
 
@@ -46,3 +46,5 @@ Changing `TOPIC` changes literature discovery. `PURPOSE` records your purpose an
 
 Slides, agendas, student reflections, grading, and teaching release packages are distributed through the course channels. This public repository contains interactive code notebooks and the structure required to use and extend them.
 
+
+Current Week 1 reading policy: Active research literature uses the rolling window October 27 2024 to October 27 2026, in leading journals or main conference proceedings. Older classics are retained only with a verified Nobel or Turing author exception. Dataset observations, provider instructions, course policies and original-paper bibliographies are source records rather than new reading recommendations. The classroom A2 worksheet records a prediction before Colab and an observed result and revised design after it. The individual reflection is a separate PDF of at most two A4 pages, named netID_LastName_Firstname.pdf, attached to a reply on the Ed reflection post.

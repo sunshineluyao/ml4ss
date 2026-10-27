@@ -8,7 +8,7 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
 [Open the revised Week 1 Wednesday notebook in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/02_week1_research_innovation.ipynb)
 
-Wednesday Research addresses Monday's feedback on originality, empirical design and data access before the Innovation canvas. It adds a nine-resource publication-linked data catalog, three small real-data excerpts and a research-design form. See [the Foundations guide](modules/00-foundations/README.md) for the distinction between observed data, published summaries and synthetic tutorials, access conditions, provenance and the short visual reflection.
+Wednesday Research addresses Monday's feedback on originality, empirical design and data access before the Innovation canvas. It adds a seven-resource publication-linked data catalog, three small real-data excerpts and a research-design form. See [the Foundations guide](modules/00-foundations/README.md) for the distinction between observed data, published summaries and synthetic tutorials, access conditions, provenance and the short visual reflection.
 
 
 [Open the Week 1 Day 1 notebook in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/00-foundations/01_questions_evidence_methods.ipynb)
@@ -63,3 +63,5 @@ The core uses Python, NumPy, pandas, Matplotlib, scikit-learn, and IPython, all 
 
 The revised notebook contains 13 executable cells. Verification covers the default live run, low/high measurement noise, low/high allocation capacity, a cultural-heritage query and changed purpose/context, a narrowed date range, a genuine zero-match query, forced provider failure, and answer refresh with stale-export checks. The checked example outputs are saved in the notebook. Validation uses Python 3.12 and real in-process IPython with Colab-compatible core packages, including rich figure/HTML outputs. Public Colab rendering is checked separately; execution inside a signed-in hosted Colab runtime and browser download prompts remain external conditions.
 
+
+Current Week 1 reading policy: Active research literature uses the rolling window October 27 2024 to October 27 2026, in leading journals or main conference proceedings. Older classics are retained only with a verified Nobel or Turing author exception. Dataset observations, provider instructions, course policies and original-paper bibliographies are source records rather than new reading recommendations. The classroom A2 worksheet records a prediction before Colab and an observed result and revised design after it. The individual reflection is a separate PDF of at most two A4 pages, named netID_LastName_Firstname.pdf, attached to a reply on the Ed reflection post.
