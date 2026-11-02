@@ -4,6 +4,8 @@ Interactive computational tutorials for asking consequential social questions, c
 
 Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
+Hallo!!! Lunch Time !
+
 ## Start here
 
 ## Week 2 · Multimodal Data and Measurement
