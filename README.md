@@ -8,7 +8,7 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
 ## Week 4 · Causal Inference and Midterm Workshop
 
-Use a synthetic inspection example to compare difference-in-differences with causal discovery and effect estimation under a graph. The saved run shows the data summaries and figure. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-causal-inference/week04_causal_ml.ipynb) · [Read the walkthrough](modules/05-causal-inference/README.md)
+Work through the Card–Krueger minimum-wage survey and a robot-workcell stress test as an economist, or identify and estimate a dose effect from synthetic causal graphs as a computer scientist. Each route includes two 2026 readings, guiding questions and saved figures. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-causal-inference/week04_causal_ml.ipynb) · [Read the walkthrough](modules/05-causal-inference/README.md)
 
 ## Week 3 · Explanation and Prediction
 
