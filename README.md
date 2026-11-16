@@ -6,6 +6,10 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
 ## Start here
 
+## Week 4 · Causal Inference and Midterm Workshop
+
+Use a synthetic inspection example to compare difference-in-differences with causal discovery and effect estimation under a graph. The saved run shows the data summaries and figure. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-causal-inference/week04_causal_ml.ipynb) · [Read the walkthrough](modules/05-causal-inference/README.md)
+
 ## Week 3 · Explanation and Prediction
 
 A research team needs to know what a recorded label means, how to describe patterns, how to predict outcomes for new cases and how to compare competing methods. These four labs follow those decisions from robot observations and text requests to a benchmark comparison.
@@ -66,7 +70,7 @@ The tutorial includes motivation, philosophical and mathematical definitions, ps
 | `modules/02-explanation/` | Week 3 methods lab, including unlabeled text clustering. |
 | `modules/03-prediction/` | Week 3 robot completion and held-out evaluation. |
 | `modules/04-evaluation/` | Week 3 TabArena case and standalone Colab for evaluating prediction methods. |
-| `modules/05-causal-inference/` | Future causal inference tutorials. |
+| `modules/05-causal-inference/` | Week 4 difference-in-differences, causal graphs and a comparison with prediction. |
 | `modules/06-optimization/` | Future decision and optimization tutorials. |
 | `modules/07-frontier-methods/` | Future evaluation of emerging methods. |
 
