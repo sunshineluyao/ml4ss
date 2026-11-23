@@ -2,7 +2,7 @@
 
 **Executive summary.** Which model performs better when each method faces the same cases? This lab compares a class-prior baseline, logistic regression and random forest on five shared test folds. You learn to choose a scoring rule, read matched differences and explain how a ranking depends on the tasks and metrics included. The classroom experiment uses Wine or Digits data. The TabArena paper provides the benchmark design case.
 
-[Open 04 Evaluation in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/04-evaluation/week03_04_tabarena_evaluation.ipynb)
+[Open 04 Evaluation in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/08-evaluation/week03_04_tabarena_evaluation.ipynb)
 
 ## Learning objectives
 

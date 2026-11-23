@@ -326,7 +326,7 @@ view_scores = prediction_gallery()
 
 **Transfer question.** If you were predicting crop damage from aerial images, would you hold out individual pictures, fields or seasons? What new cases would your choice represent?
 
-Trace the reference answers in the [01 Measurement walkthrough](../01-measurement/README.md#week-3-measurement). Compare models on matched test folds in the [04 Evaluation walkthrough](../04-evaluation/README.md).
+Trace the reference answers in the [01 Measurement walkthrough](../01-measurement/README.md#week-3-measurement). Compare models on matched test folds in the [04 Evaluation walkthrough](../08-evaluation/README.md).
 
 **Source.** [Robo2VLM-1 dataset](https://huggingface.co/datasets/keplerccc/Robo2VLM-1) · [Chen et al., Robo2VLM paper](https://papers.neurips.cc/paper_files/paper/2025/hash/1f467c3e37abf9f86c78f44c6a27ee7c-Abstract-Datasets_and_Benchmarks_Track.html)
 
