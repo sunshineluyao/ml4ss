@@ -6,6 +6,10 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
 ## Start here
 
+## Week 5 · Research and Innovation
+
+Match the question to the method in five short exercises. Turn ad titles into measurable inputs, group messages, predict a human label, estimate a Bluesky before-and-after contrast, and compare three models on a shared test set. The notebook includes editable controls, worked outputs, and a project-revision example. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/08-innovation/week05_matching_ml_methods.ipynb) · [Read the walkthrough](modules/08-innovation/README.md)
+
 ## Week 4 · Causal Inference and Midterm Workshop
 
 Work through the Card–Krueger minimum-wage survey and a robot-workcell stress test as an economist, or identify and estimate a dose effect from synthetic causal graphs as a computer scientist. Each route includes two 2026 readings, guiding questions and saved figures. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-causal-inference/week04_causal_ml.ipynb) · [Read the walkthrough](modules/05-causal-inference/README.md)
@@ -73,6 +77,7 @@ The tutorial includes motivation, philosophical and mathematical definitions, ps
 | `modules/05-causal-inference/` | Week 4 difference-in-differences, causal graphs and a comparison with prediction. |
 | `modules/06-optimization/` | Future decision and optimization tutorials. |
 | `modules/07-frontier-methods/` | Future evaluation of emerging methods. |
+| `modules/08-innovation/` | Week 5 tutorial on matching questions to methods and revising a project design. |
 
 `collaborative-learning/` reserves notebook locations for think-pair-share, workshops, symposia, exhibitions, peer review, reflection activities, and certificates. These directories are structural placeholders, not claims that those tutorials are released.
 
