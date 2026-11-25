@@ -74,7 +74,7 @@ The tutorial includes motivation, philosophical and mathematical definitions, ps
 | `modules/02-explanation/` | Week 3 methods lab, including unlabeled text clustering. |
 | `modules/03-prediction/` | Week 3 robot completion and held-out evaluation. |
 | `modules/04-causal-inference/` | Week 4 difference-in-differences, causal graphs and a comparison with prediction. |
-| `modules/05-optimization/` | Decision and optimization. Start with the [Week 5 tax exercise](modules/08-innovation/README.md). |
+| [05 Optimization](modules/05-optimization/README.md) | From the [Week 5 tax exercise](modules/08-innovation/README.md) to a sequential lending policy with EconGym, Gymnasium, and PPO. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-optimization/01_rl_economic_policy_econgym.ipynb) |
 | `modules/06-frontier-methods/` | Future evaluation of emerging methods. |
 | `modules/07-evaluation/` | Week 3 TabArena case and standalone Colab for evaluating prediction methods. |
 | `modules/08-innovation/` | Week 5 tutorial on matching questions to methods and revising a project design. |
