@@ -8,7 +8,7 @@ Instructor and maintainer: **Luyao (Sunshine) Zhang, Duke Kunshan University**.
 
 ## Week 5 · Research and Innovation
 
-Match the question to the method in five short exercises. Turn ad titles into measurable inputs, group messages, predict a human label, estimate a Bluesky before-and-after contrast, and compare three models on a shared test set. The notebook includes editable controls, worked outputs, and a project-revision example. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/08-innovation/week05_matching_ml_methods.ipynb) · [Read the walkthrough](modules/08-innovation/README.md)
+Match the question to the method in six short exercises. Turn ad titles into measurable inputs, group messages, predict a human label, estimate a Bluesky before-and-after contrast, learn a tax choice in a simulated town, and compare three models on a shared test set. The notebook includes editable controls, worked outputs, and a project-revision example. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/08-innovation/week05_matching_ml_methods.ipynb) · [Read the walkthrough](modules/08-innovation/README.md)
 
 ## Week 4 · Causal Inference and Midterm Workshop
 
@@ -74,7 +74,7 @@ The tutorial includes motivation, philosophical and mathematical definitions, ps
 | `modules/02-explanation/` | Week 3 methods lab, including unlabeled text clustering. |
 | `modules/03-prediction/` | Week 3 robot completion and held-out evaluation. |
 | `modules/04-causal-inference/` | Week 4 difference-in-differences, causal graphs and a comparison with prediction. |
-| `modules/05-optimization/` | Future decision and optimization tutorials. |
+| `modules/05-optimization/` | Decision and optimization. Start with the [Week 5 tax exercise](modules/08-innovation/README.md). |
 | `modules/06-frontier-methods/` | Future evaluation of emerging methods. |
 | `modules/07-evaluation/` | Week 3 TabArena case and standalone Colab for evaluating prediction methods. |
 | `modules/08-innovation/` | Week 5 tutorial on matching questions to methods and revising a project design. |
