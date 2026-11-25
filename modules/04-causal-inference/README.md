@@ -1,6 +1,6 @@
 # Week 4 · Causal Inference and Midterm Workshop
 
-[Open the Week 4 lab in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-causal-inference/week04_causal_ml.ipynb) · [View the executed notebook on GitHub](week04_causal_ml.ipynb)
+[Open the Week 4 lab in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/04-causal-inference/week04_causal_ml.ipynb) · [View the executed notebook on GitHub](week04_causal_ml.ipynb)
 
 Trace a causal question from a treatment and outcome to an estimand, the assumptions that identify it, a computed estimate and a robustness check. Each step has a guiding question, equations, pseudocode, Python and results.
 

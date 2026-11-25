@@ -12,7 +12,7 @@ Match the question to the method in five short exercises. Turn ad titles into me
 
 ## Week 4 · Causal Inference and Midterm Workshop
 
-Work through the Card–Krueger minimum-wage survey and a robot-workcell stress test as an economist, or identify and estimate a dose effect from synthetic causal graphs as a computer scientist. Each route includes two 2026 readings, guiding questions and saved figures. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/05-causal-inference/week04_causal_ml.ipynb) · [Read the walkthrough](modules/05-causal-inference/README.md)
+Work through the Card–Krueger minimum-wage survey and a robot-workcell stress test as an economist, or identify and estimate a dose effect from synthetic causal graphs as a computer scientist. Each route includes two 2026 readings, guiding questions and saved figures. [Open in Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/04-causal-inference/week04_causal_ml.ipynb) · [Read the walkthrough](modules/04-causal-inference/README.md)
 
 ## Week 3 · Explanation and Prediction
 
@@ -23,9 +23,9 @@ A research team needs to know what a recorded label means, how to describe patte
 | [01 Measurement](modules/01-measurement/README.md#week-3-measurement) | Decode a stored answer in its own record. Use two robot frames to see why position 2 can resolve to different reference labels. | [Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/01-measurement/week03_01_robot_measurement.ipynb) |
 | [02 Explanation](modules/02-explanation/README.md) | Turn text into features, group similar requests and judge a proposed theme from cluster sizes and center terms. | [Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/02-explanation/week03_02_unsupervised_explanation.ipynb) |
 | [03 Prediction](modules/03-prediction/README.md) | Fit a classifier using labeled images from other robot runs. Compare a score, decision, reference and baseline on held-out frames. | [Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/03-prediction/week03_03_robot_prediction.ipynb) |
-| [04 Evaluation](modules/08-evaluation/README.md) | Compare methods on shared test folds. Read how log loss and balanced accuracy answer different questions and trace one design choice in TabArena. | [Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/08-evaluation/week03_04_tabarena_evaluation.ipynb) |
+| [Lab 4 · Evaluation](modules/07-evaluation/README.md) | Compare methods on shared test folds. Read how log loss and balanced accuracy answer different questions and trace one design choice in TabArena. | [Colab](https://colab.research.google.com/github/sunshineluyao/ml4ss/blob/main/modules/07-evaluation/week03_04_tabarena_evaluation.ipynb) |
 
-Each walkthrough starts with a short learning summary, then traces the algorithm in pseudocode. The guide explains the statistics and plots alongside the results and closes with conclusions and assumptions. Read the saved examples and galleries, expand the code for any cell, and consider a question from another field before running the lab. For Wednesday's paper discussion, see the [TabArena research case](modules/08-evaluation/README.md#research-case--tabarena).
+Each walkthrough starts with a short learning summary, then traces the algorithm in pseudocode. The guide explains the statistics and plots alongside the results and closes with conclusions and assumptions. Read the saved examples and galleries, expand the code for any cell, and consider a question from another field before running the lab. For Wednesday's paper discussion, see the [TabArena research case](modules/07-evaluation/README.md#research-case--tabarena).
 
 ## Week 2 · Multimodal Data and Measurement
 
@@ -73,10 +73,10 @@ The tutorial includes motivation, philosophical and mathematical definitions, ps
 | `modules/01-measurement/` | Week 2 multimodal measurement, dataset critique and data-descriptor release. |
 | `modules/02-explanation/` | Week 3 methods lab, including unlabeled text clustering. |
 | `modules/03-prediction/` | Week 3 robot completion and held-out evaluation. |
-| `modules/05-causal-inference/` | Week 4 difference-in-differences, causal graphs and a comparison with prediction. |
-| `modules/06-optimization/` | Future decision and optimization tutorials. |
-| `modules/07-frontier-methods/` | Future evaluation of emerging methods. |
-| `modules/08-evaluation/` | Week 3 TabArena case and standalone Colab for evaluating prediction methods. |
+| `modules/04-causal-inference/` | Week 4 difference-in-differences, causal graphs and a comparison with prediction. |
+| `modules/05-optimization/` | Future decision and optimization tutorials. |
+| `modules/06-frontier-methods/` | Future evaluation of emerging methods. |
+| `modules/07-evaluation/` | Week 3 TabArena case and standalone Colab for evaluating prediction methods. |
 | `modules/08-innovation/` | Week 5 tutorial on matching questions to methods and revising a project design. |
 
 `collaborative-learning/` reserves notebook locations for think-pair-share, workshops, symposia, exhibitions, peer review, reflection activities, and certificates. These directories are structural placeholders, not claims that those tutorials are released.
